@@ -1,0 +1,30 @@
+What is git?;Git is a fast distributed revision control system.
+what does the clone command do?;The clone command creates a new directory named after the project.
+What is commit?Every change in the history of a project is represented by a commit.
+what does each commit have?;Every commit has a 40-hexdigit id
+how is called the point where the two lines of development reconverge?;merge
+What is a branch?;we will use the word "branch" to mean a lineof development
+what does git branch do?;list all branches.
+For what purposes is a special "head" symbol used?;The special symbol "HEAD" can always be used to refer to the current branch.
+what does git-fetch do?;The `git-fetch` command, with no arguments, will update all of the remote-tracking branches to the latest version found in the original repository.
+with which command can I track branches from repositories that I did not clone?;git-remote
+How does git store the history of the collection of files?;It does this by storing compressed snapshots of the contents of a file hierarchy
+For which tasks is the bisect command useful?;useful for finding the commit that introduced a bug into a project
+What is the purpose of the tags in the git?;to refer to a particular commit
+Which command show the list of commits?;git-log
+what does merge-base command do?;The merge-base command finds a common ancestor of the given commits, and always returns one or the other in the case where one is a descendant of the other
+what does git-archive command do?;create a tar or zip archive from any version of a project
+How to make a commit?;Creating a new commit takes three steps: 1. Making some changes to the working directory using your favorite editor. 2. Telling Git about your changes. 3. Creating the commit using the content you told Git about in step 2.
+What is index in git?;Git maintains a snapshot of the tree's contents in a special staging area called "the index."
+How to update the index?;git add
+How to remove a file from the index and from the working tree?;git rm
+What does git diff command do?;shows the difference between the working tree and the index file.
+how to create a good message in a commit in the git?;Though not required, it's a good idea to begin the commit message with a single short (less than 50 character) line summarizing the change, followed by a blank line and then a more thorough description.
+how to tell git which files to ignore?;You can tell Git to ignore certain files by creating a file called `.gitignore` in the top level of your working directory
+What does git-fsck command do?;runs a number of self-consistency checks on the repository, and reports on any problems.
+How to check the original repository for updates and merge them into my own work?;git-pull
+How to update the remote branch with the latest state of my branch?;git push?
+What does the tag object contain?;A tag object contains an object, object type, tag name, the name of the person ("tagger") who created the tag, and a message, which may contain a signature
+What does freshly cloned repository contains?;A freshly cloned repository contains a single branch head, by default named "master", with the working directory initialized to the state of the project referred to by that branch head.
+What does git show do?;shows the most recent commit on the current branch
+What does each commit show?;a commit shows who made the latest change, what they did, and why
