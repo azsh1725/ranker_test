@@ -13,9 +13,9 @@ log_file_for_wrong = "wrong.csv"
 qa_df = pd.read_csv(path_to_qa, sep=";", header=None, names=["quest", "answer"])
 script_ans = []
 with open(path_to_script_answers, "r", encoding="utf-8") as sa_in:
-    for i in range(qa_df.shape[0]):
-        ans = sa_in.readline().split(";")[0].strip()
-        script_ans.append(ans)
+    ans = sa_in.read().split(";\n")
+    for i in range(len(ans) - 1):
+        script_ans.append(ans[i])
 
 #path_to_text = "wiki_article.txt"
 answer_without_punc = []
@@ -59,8 +59,8 @@ if os.path.exists(log_file_for_wrong):
 for c, t, q, correctness in zip(answer_list, text_result, question_list, correct_answer):
     if correctness == 1:
         with open(log_file_for_correct, "a", encoding="utf-8") as out:
-            out.write("{};{};{}\n".format(q, t, c))
+            out.write("{};{};{};\n".format(q, t, c))
     else:
         with open(log_file_for_wrong, "a", encoding="utf-8") as out:
-            out.write("{};{};{}\n".format(q, t, c))
+            out.write("{};{};{};\n".format(q, t, c))
     #print("correctness: {}\nquestion: {}\nright answer: {}\ntext: {}\n".format(correctness, q, c, t))
