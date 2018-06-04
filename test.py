@@ -7,8 +7,8 @@ import os
 
 path_to_script_answers = sys.argv[1]
 path_to_qa = sys.argv[2]
-log_file_for_correct = "correct.txt"
-log_file_for_wrong = "wrong.txt"
+log_file_for_correct = "correct.csv"
+log_file_for_wrong = "wrong.csv"
 #path_to_question = "questions.txt"
 qa_df = pd.read_csv(path_to_qa, sep=";", header=None, names=["quest", "answer"])
 script_ans = []
