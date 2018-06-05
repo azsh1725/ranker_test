@@ -1,0 +1,150 @@
+question;answer
+what country manufactured the helicopter?;Russia
+in which year was the helicopter created?;2018
+weight of a drones?;300 kg
+how long does the helicopter work?;up to 5 hours
+What are the dimensions of this model of unmanned helicopter?;two 3.5-meter-wide screws
+where you can buy?;Helicopters of Russia
+where you can buy a helicopter?;Helicopters of Russia
+where is the helicopter?;The St. Petersburg International Economic Forum
+where is it?;The St. Petersburg International Economic Forum
+What is the carrying capacity of a helicopter?;70 kg
+What is the weight of the helicopter?;300 kg
+What is the carrying capacity of a helicopter?;70 kg
+What is the mass of the helicopter?;300 kg
+What time can be in the air?;5 hours
+what amount of payload is it capable of carrying?;70 kg
+what is the weight of the helicopter?;300 kg
+how long can the helicopter be in the air?;5 hours
+how long is the helicopter capable of being in the air?;5 hours
+how long is the duration of a helicopter flight?;5 hours
+how much does the helicopter weigh?;300 kg
+how long can a it stay in the air without moving around ?;5 hours
+how many types of unmanned helicopters are there?;two
+how many types does it have?;two
+how many wings it has?;two
+what is the average weight of an unmanned helicopter?;300 kg
+what is the benefit of it?;diagnostics of overhead transmission lines, mapping, transportation of cargo, search operations, as well as monitoring of the ecological situation, roads and objects of roadside infrastructure.
+what is the flight time with full battery?;5 hours
+what is the function of an unmanned helicopter?;diagnostics of overhead transmission lines, mapping, transportation of cargo, search operations, as well as monitoring of the ecological situation, roads and objects of roadside infrastructure.
+what is the functions of this helicopter?;diagnostics of overhead transmission lines, mapping, transportation of cargo, search operations, as well as monitoring of the ecological situation, roads and objects of roadside infrastructure.
+what is the maximum weight you can carry?;70 kg
+what is the purpose of an unmanned helicopter?;diagnostics of overhead transmission lines, mapping, transportation of cargo, search operations, as well as monitoring of the ecological situation, roads and objects of roadside infrastructure.
+what is the purpose of it?;diagnostics of overhead transmission lines, mapping, transportation of cargo, search operations, as well as monitoring of the ecological situation, roads and objects of roadside infrastructure.
+what is the weight;300 kg
+what is the weight of it?;300 kg
+what is the weight?;300 kg
+what is the working time with full charge;5 hours
+what is this helicopter for?;diagnostics of overhead transmission lines, mapping, transportation of cargo, search operations, as well as monitoring of the ecological situation, roads and objects of roadside infrastructure.
+what's the aim of it?;diagnostics of overhead transmission lines, mapping, transportation of cargo, search operations, as well as monitoring of the ecological situation, roads and objects of roadside infrastructure
+when did the unmanned helicopter production begin?;In 2019, it is planned to certify the device, and in 2020 - to begin commercial sales
+it can be bought somewhere?;Helicopters of Russia
+is there a copy of the helicopter?;The VRT300 is developed in two versions
+is there a copy of the helicopter model?;The VRT300 is developed in two versions
+Does the helicopter have a camera?;is equipped with an onboard side-scan radar
+how to control the helicopter?;by an operator from a control point
+what is the name of this helicopter?;VRT300
+how is the helicopter operated?;by an operator from a control point
+how is the helicopter controlled?;by an operator from a control point
+What is the takeoff weight of a drone?;maximum takeoff weight of 300 kg
+What is the take-off mass of an unmanned vehicle?;maximum takeoff weight of 300 kg
+what is the length of the blades of the helicopter?;3.5-meter-wide
+What is the mass of the helicopter?;weight of 300 kg
+which company developed a drone?;Helicopters of Russia
+What kind of a helicopter is it?;unmanned vehicle
+What is the maximum duration of a helicopter flight?;up to 5 hours
+what is the maximum speed of the helicopter?;180 km / h
+what is the brand of the helicopter?;VRT300
+What is the mass of the helicopter?;300 kg
+which model of the helicopter?;VRT300
+what is the model of the helicopter in front of you?;VRT300
+what is the duration of the flight?;up to 5 hours
+What powerplant helicopter?;"engine on ""heavy"" fuel"
+What is the speed of the helicopter?;180 km / h
+which country used it for the first time?;Russia
+what characteristics does the helicopter have?;takeoff weight of 300 kg and a target payload of 70 kg
+What are the modifications of the helicopter?;Arctic Supervision - with a side-scan radar for Arctic exploration and operation in the Arctic and Opticvision - with extended range for monitoring and remote sensing tasks
+Can a helicopter carry cargo?;the complex can be used to transport various cargoes
+what is the scope of the helicopter?;is primarily designed for diagnosing, preventing and eliminating emergencies during the extraction and transportation of hydrocarbons
+how long can the helicopter be in the air?;up to 5 hours
+how long is the helicopter capable of being in the air?;up to 5 hours
+how long is the duration of a helicopter flight?;up to 5 hours
+how much does the helicopter weigh?;300 kg
+how much is the wingspan of the drone?;two 3.5-meter-wide screws rotating in opposite directions
+What is the speed of the helicopter?;180 km / h
+What is the way to control the helicopter?;by an operator from a control point
+What type of power is the helicopter?;" ""heavy"" fuel"
+What are the purposes of this helicopter?;diagnostics of overhead transmission lines, mapping, transportation of cargo, search operations, as well as monitoring of the ecological situation, roads and objects of roadside infrastructure
+What is an unmanned helicopter?;an aircraft flying without a pilot (crew) on board and operated automatically in flight, by an operator from a control point or a combination of said methods
+What is spief?;The St. Petersburg International Economic Forum
+what is it?;VRT300 unmanned vehicle
+does it have any remote control?;by an operator from a control point
+does it have remote control?;by an operator from a control point
+does it need electricty or fuel to fly?;"""heavy"" fuel"
+how can it help to people?;diagnostics of overhead transmission lines, mapping, transportation of cargo, search operations, as well as monitoring of the ecological situation, roads and objects of roadside infrastructure.
+how do you control it?;by an operator from a control point
+how does it fly?;VRT300 has a coaxial system of screws
+how does it work without a man?;by an operator from a control point
+how fast can it fly?;180 km / h
+how fast can it go?;180 km / h
+how fast is it ?;180 km / h
+how is it controlled?;by an operator from a control point
+how is the flight monitored?;by an operator from a control point
+how long can a it stay in the air without moving around ?;up to 5 hours
+how long did it take to do this helicopter?;In 2019, it is planned to certify the device, and in 2020 - to begin commercial sales
+how long was the construction process?;In 2019, it is planned to certify the device, and in 2020 - to begin commercial sales
+how many types of unmanned helicopters are there?;The VRT300 is developed in two versions
+how many types does it have?;The VRT300 is developed in two versions
+how many wings it has?;The VRT300 is developed in two versions
+how old is it?;In 2019, it is planned to certify the device, and in 2020 - to begin commercial sales
+is there a pilot?;unmanned vehicle
+what is fuel?;"""heavy"" fuel"
+which system does vrt300 have?;a coaxial system of screws
+how much wide are the screws?;3.5-meter-wide
+how much reduces fuel consumption?;by 20%
+what improves to wind gusts?;controllability and stability
+what is the framework of this memorandum?;it is planned to establish partnerships aimed at creating a federal logistics operator using unmanned aerial systems of a helicopter type
+who signed the agreement with sberbanks?;JSC Helicopters of Russia
+what is a russian corporation established in 2007 to promote the development?;State Corporation Rostekh
+how many organization rostekh consist?;700 organizations
+what does rostekh's portfolio include?;"AVTOVAZ, KAMAZ, Kalashnikov Concern, ""Russian Helicopters"", VSMPO-AVISMA, etc."
+what is the main goal of the corparation according to rostekh's?;to ensure Russia's technological advantage in highly competitive global markets
+what is the one of rostekh's key tasks?;the introduction of a new technological structure and the digitalization of the russian economy
+what is the one of the priority tasks of the vrt300 arctic supervision complex?;the development of the northern sea route transport system
+what kind of radar the complex is equipped with?;onboard side-scan radar
+what is the  target load of the vrt300 complex?;70 kg
+what  kind of  platforms vrt300 is irreplaceable on?;on icebreakers and on drilling platforms
+what kind of cargoes the complex can transport?;products and medicines
+what did sberbank first test?;an unmanned aerial vehicle to deliver cash
+when did sberbank first test an unmanned aerial vehicle to deliver cash?;06/16/2017
+how fast is the speed of the device?;180 km / h
+what distance does the device work?;10 km
+how many versions have been developed for vrt300?;two versions
+what is the first version of these?;Arctic Supervision
+what is the second version of these?;Opticvision
+what kind of radar has arctic supervision been doing?;side-scan
+what is one of the world leaders in the helicopter industry?;Helicopters of Russia JSC
+when did the holding establish?;2007
+where is the head office?;Moscow
+what does the holding include?;five helicopter factories, two design bureaus, as well as enterprises for the production and maintenance of components, aircraft repair plants and a service company
+what is designed for the development of a system for diagnosing, preventing and eliminating emergencies in the sphere of extraction and transportation of energy resources?;Complex VRT300
+how many hours can the opticvision version stay in the air?;up to 5 hours
+what is the other task for vrt300?;diagnostics of overhead transmission lines, mapping, transportation of cargo, search operations, as well as monitoring of the ecological situation, roads and objects of roadside infrastructure
+what is the travel at speed?;180 km / h
+what is primarily designed for ?;for diagnosing, preventing and eliminating emergencies during the extraction and transportation of hydrocarbons
+What was the drone production volume in 2017?;3 million units
+What was the drone production volume in 2016?;2.1 million
+What is the main advantage of drones?;they do not need pilots
+What is the most noticeable advantage of unmmaned aerial vehicals?;they do not need pilots
+In what daytime drones could be used?;at any time of day
+What is the allowed temperature for drones?;from -40 to +50 Celsius
+How can we classify drones?;Unmanned aerial vehicles are difficult to classify, because they have very different characteristics.
+Is it necessary to register unmaned aerial vehicles?;mandatory in Russia registration of unmanned aerial vehicles (UAV) weighing from 250 grams
+Where should be drone registered?;"""ZashchitaInfo Trans"" of the Ministry of Transport of Russia"
+What is the benefit of unmanned vehicle?;possible to significantly increase the flight time and reduce the overall weight
+When was the first unmanned vehicle used?;on August 22, 1849
+What was the first unmanned vehicle?;unmanned balloons
+What about market of drones?;is one of the most dynamically developing markets
+Who was the frist to use drones for civiian applications?;by Amazon for the delivery of consumer goods in 2013
+What part of the market does the Russia take?;Russia holds a small share in the sales of unmanned aerial vehicles
+How many drones will be used by 2020?;15,000
