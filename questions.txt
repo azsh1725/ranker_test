@@ -2,7 +2,7 @@ What is google?;Google LLC is an American multinational technology company that 
 When google was founded?;1998
 Who was founded google?;Larry Page and Sergey Brin
 How much control of the stockholder voting power have Larry Page and Sergey Brin?;Together, they own about 14 percent of its shares and control 56 percent of the stockholder voting power through supervoting stock.
-Which services google offer?;Google offers services designed for work and productivity (Google Docs, Sheets, and Slides), email (Gmail/Inbox), scheduling and time management (Google Calendar), cloud storage (Google Drive), social networking (Google+), instant messaging and video chat (Google Allo/Duo/Hangouts), language translation (Google Translate), mapping and turn-by-turn navigation (Google Maps/Waze/Earth/Street View), video sharing (YouTube), note-taking (Google Keep), and photo organizing and editing (Google Photos).
+Which services google offer?;It offers services designed for work and productivity (Google Docs, Sheets, and Slides), email (Gmail/Inbox), scheduling and time management (Google Calendar), cloud storage (Google Drive), social networking (Google+), instant messaging and video chat (Google Allo/Duo/Hangouts), language translation (Google Translate), mapping and turn-by-turn navigation (Google Maps/Waze/Earth/Street View), video sharing (YouTube), note-taking (Google Keep), and photo organizing and editing (Google Photos).
 Who is the new hardware chief in google?;Rick Osterloh
 How did google begin?;Google began in January 1996 as a research project by Larry Page and Sergey Brin when they were both PhD students at Stanford University in Stanford, California.
 What is the name of the technology used by Google in the search engine?;PageRank
@@ -24,17 +24,17 @@ What is Alphabet?;In August 2015, Google announced plans to reorganize its vario
 what profit does Google receive from advertising in 2006?;$10.492 billion
 What allows google analytics to the user?; Google Analytics allows website owners to track where and how people use their website, for example by examining click rates for all the links on a page.
 What share of the market did the Google search engine occupy in 2009?;market share of 65.6%
-What are two important changes Google made in the search engine in 2016?;The first change removes the "mobile-friendly" label that highlighted easy to read pages from its mobile search results page. For the second change, the company—starting on January 10, 2017—will punish mobile pages that show intrusive interstitial advertisements when a user first opens a page.
+What are two important changes Google made in the search engine in 2016?;The first change removes the "mobile-friendly" label that highlighted easy to read pages from its mobile search results page. For the second change, the company - starting on January 10, 2017 - will punish mobile pages that show intrusive interstitial advertisements when a user first opens a page.
 What services are included in the g suite subscription?; Gmail, Google Drive and Docs, Sheets, and Slides, with additional administrative tools, unique domain names, and 24/7 support.
 What is Google for Entrepreneurs?a largely not-for-profit business incubator providing startups with co-working spaces known as Campuses, with assistance to startup founders that may include workshops, conferences, and mentorships.
 how many employees did Google have for March 2018?;85,050 employees
 What is the base salary of Brin and Page after ipo in 2004?;1$
 What motivational policy does Google use?;Google uses a policy often called Innovation Time Off, where Google engineers are encouraged to spend 20% of their work time on projects that interest them.
 Where is the headquarters of Google?;Mountain View
-What are doodles?;special, temporary alternate logos to place on google's homepage intended to celebrate holidays, events, achievements and people.
+What are doodles?;special, temporary alternate logos to place on their homepage intended to celebrate holidays, events, achievements and people.
 When did Google launch its philanthropic foundation and what is the initial capital of the fund?;In 2004, Google formed the not-for-profit philanthropic Google.org, with a start-up fund of $1 billion.
 How much did Google save between 2007 and 2010 with the help of tax avoidance strategies?;Google between 2007 and 2010 saved $3.1 billion in taxes
 What is AutoDraw?;a web-based tool using artificial intelligence and machine learning to recognize users' drawings and replace scribbles with related stock images that have been created by professional artists.
-What is Google Station initiative?;Google Station initiative is a project for public Wi-Fi at railway stations in India.
+What is Google Station initiative?;Google Station initiative, a project for public Wi-Fi at railway stations in India
 Which brand has replaced Nexus?;Pixel
 how does DeepMind describe itself?;DeepMind describes itself as having the ability to combine the best techniques from machine learning and systems neuroscience to build general-purpose learning algorithms.
