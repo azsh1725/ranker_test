@@ -39,7 +39,7 @@ for index, row in qa_df.iterrows():
     answer_without_punc.append(data)
     text_result.append(row["script_answer"])
 
-    if (str(data) in row["script_answer"]):
+    if (str(data).lower() in row["script_answer"].lower()):
         #print("correct row:\n{}\n".format(row))
         correct_answer.append(1)
     else:

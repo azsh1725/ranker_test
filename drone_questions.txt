@@ -1,4 +1,3 @@
-question;answer
 what country manufactured the helicopter?;Russia
 in which year was the helicopter created?;2018
 weight of a drones?;300 kg

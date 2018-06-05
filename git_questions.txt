@@ -3,7 +3,7 @@ what does the clone command do?;The clone command creates a new directory named 
 What is commit?Every change in the history of a project is represented by a commit.
 what does each commit have?;Every commit has a 40-hexdigit id
 how is called the point where the two lines of development reconverge?;merge
-What is a branch?;we will use the word "branch" to mean a lineof development
+What is a branch?;we will use the word "branch" to mean a line of development
 what does git branch do?;list all branches.
 For what purposes is a special "head" symbol used?;The special symbol "HEAD" can always be used to refer to the current branch.
 what does git-fetch do?;The `git-fetch` command, with no arguments, will update all of the remote-tracking branches to the latest version found in the original repository.
